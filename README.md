@@ -1,7 +1,7 @@
-# Old Man Yells at the Cloud- **TODO: Title**
+# Old Man Yells at the Cloud- TODO: Title
 TODO: insert video link here
 
-## **TODO: Section 1**
+## TODO: Section 1
 
 ---
 
