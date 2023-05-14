@@ -4,4 +4,7 @@
 - https://dot-star.blogspot.com/ (Note, not always SFW. Frequently about non-tech things. This is your one warning.)
 ###### The views expressed are mine and mine alone. [Any rebroadcast, retransmission, or account, without the express written consent, or implied oral consent of Major League Baseball, is prohibited.](https://www.google.com/search?q=I%27m+joking&tbm=isch)
 
-## 
+## TODO: Title
+TODO: insert video link here
+
+### TODO: Section 1
